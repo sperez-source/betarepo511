@@ -1,9 +1,45 @@
-# Wawawewa
+# Hello World Code Examples
 
-This is a newly created file in the `borat` branch of the `betarepo511` repository.
+This file demonstrates simple "Hello, World!" programs in various programming languages.
 
-**Content:**
-- Fun fact: Wawawewa is an exclamation often used in comedic contexts.
-- Created on: May 11, 2026
+## Python
+```python
+print("Hello, World!")
+```
 
-Hello from Grok!
+## JavaScript (Node.js)
+```javascript
+console.log("Hello, World!");
+```
+
+## Java
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+
+## C
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
+## Go
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+```
+
+*Updated on May 11, 2026 by Grok* 
